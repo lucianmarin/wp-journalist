@@ -39,4 +39,10 @@ function tj_comment_class( $classname='' ) {
 	return join(' ', apply_filters('comment_class', $c));
 }
 
+// Some plugins, like Tumblr Crosspostr, use this to determine what
+// kind of action to take. We don't need to do anything fancy other
+// than register our support for this to make it all work. So, do it.
+add_theme_support( 'post-formats', array(
+    'link', 'image', 'quote', 'video', 'audio', 'chat'
+) );
 ?>
