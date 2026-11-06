@@ -1,7 +1,6 @@
 ================================================================
 The Journalist 1.9.9.9 - Designed by Lucian E. Marin | http://lucianmarin.com/
-[Theme built for WordPress 2.3 Ñ 2.8] 
-[Licensed under GPL]
+[Theme built for WordPress 2.3 ï¿½ 2.8] 
 [September 9th 2009]
 
 How to install
