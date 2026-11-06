@@ -1,6 +1,6 @@
 # The Journalist 1.9.9.9
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpg)
 
 Smart, minimal two-column WordPress theme designed for professional journalists by Lucian E. Marin (`http://lucianmarin.com/`).
 
